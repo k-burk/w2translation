@@ -1,0 +1,183 @@
+{
+  "reportDefinition" : {
+    "header" : {
+      "reportInfo" : {
+        "_id" : "w2",
+        "fileId" : "w2"
+      },
+      "reportRunInfo" : {
+        "runDate" : "2023-02-07",
+        "runTime" : "08:49:20"
+      },
+      "isTestSystem" : "false",
+      "isLocalSystem" : "false"
+    },
+    "reportOptions" : {
+      "fieldMaskingOptions" : {
+        "maskSocialSecurityNumbers" : "true"
+      }
+    },
+    "report" : {
+      "companies" : {
+        "company" : {
+          "clientInformation" : {
+            "preparerInformation" : {
+              "phoneNumber" : {
+                "number" : "3219814",
+                "areaCode" : "585"
+              }
+            },
+            "taxIdInfo" : {
+              "einNumber" : "437092213"
+            },
+            "clientNumber" : "09470509",
+            "branchNumber" : "0052",
+            "companyName" : "NV SUI REIMBURSABLE",
+            "addressInformation" : {
+              "street" : "84 MAPLE DRIVE",
+              "extended" : "",
+              "locality" : "CARSON CITY",
+              "region" : "NV",
+              "postalCode" : "89713",
+              "country" : "",
+              "countryCode" : "",
+              "foreignAddressIndicator" : "N"
+            },
+            "consolidatedClientInd" : "",
+            "w2DeliveryCode" : "",
+            "contactEmail" : "CONTACT@HOTMAIL.COM",
+            "w2MailingAddress" : {
+              "street" : "84 MAPLE DRIVE",
+              "extended" : "",
+              "locality" : "CARSON CITY",
+              "region" : "NV",
+              "postalCode" : "89713",
+              "country" : "",
+              "countryCode" : "",
+              "foreignAddressIndicator" : "N",
+              "mailingName" : "NV SUI REIMBURSABLE"
+            }
+          },
+          "printFlags" : {
+            "printAgency" : "N",
+            "printClient" : "Y",
+            "printORS" : "Y",
+            "printAtVendor" : "Y",
+            "suppressCoverTrailerPages" : "N"
+          },
+          "dates" : {
+            "quarter" : "4",
+            "futaYear" : "2023",
+            "lastDayOfQuarter" : "20231231"
+          },
+          "indicators" : {
+            "formDataSortInfo" : "00000000014",
+            "employeeW2" : "X",
+            "employerW2" : "X"
+          },
+          "employees" : {
+            "employee" : [{
+                "basicEmployeeInfo" : {
+                  "employeeName" : {
+                    "fullName" : "KYLE WICK",
+                    "firstName" : "KYLE",
+                    "lastName" : "WICK",
+                    "middleInitial" : ""
+                  },
+                  "employeeId" : "0000000019",
+                  "internalEmployeeNumber" : "0000000019",
+                  "workerPk" : "1030010735604695",
+                  "deptNbr" : "",
+                  "employeeAddressInformation" : {
+                    "address1" : "78 LOBSTER DR",
+                    "address2" : "AUGUSTA ME 04333"
+                  },
+                  "taxIdInfo" : {
+                    "socialSecurityNumber" : "278267844"
+                  }
+                },
+                "eeFormData" : [{
+                    "eeTaxData" : {
+                      "wagesTipsOtherCompensation" : "3000",
+                      "federalIncomeTaxWithheld" : "322.65",
+                      "socialSecurityWages" : "3000",
+                      "socialSecurityTaxWithheld" : "186",
+                      "medicareWagesAndTips" : "3000",
+                      "medicareTaxWithheld" : "43.5",
+                      "socialSecurityTips" : "0",
+                      "allocatedTips" : "0",
+                      "dependentCareBenefits" : "0",
+                      "nonQualifiedPlans" : "0",
+                      "statutoryIndicator" : "",
+                      "retirementIndicator" : "",
+                      "thirdPartySickIndicator" : "",
+                      "stateInformation" : [{
+                          "stateAbbreviation" : "ME",
+                          "stateIdNumber" : "36-708425001",
+                          "stateWagesTips" : "3000",
+                          "stateIncomeTax" : "147"
+                        }],
+                      "w2PrintIndicator" : "Y",
+                      "msg" : "Copy C, for employee's records"
+                    }
+                  }, {
+                    "eeTaxData" : {
+                      "wagesTipsOtherCompensation" : "3000",
+                      "federalIncomeTaxWithheld" : "322.65",
+                      "socialSecurityWages" : "3000",
+                      "socialSecurityTaxWithheld" : "186",
+                      "medicareWagesAndTips" : "3000",
+                      "medicareTaxWithheld" : "43.5",
+                      "socialSecurityTips" : "0",
+                      "allocatedTips" : "0",
+                      "dependentCareBenefits" : "0",
+                      "nonQualifiedPlans" : "0",
+                      "statutoryIndicator" : "",
+                      "retirementIndicator" : "",
+                      "thirdPartySickIndicator" : "",
+                      "stateInformation" : [{
+                          "stateAbbreviation" : "ME",
+                          "stateIdNumber" : "36-708425001",
+                          "stateWagesTips" : "3000",
+                          "stateIncomeTax" : "147"
+                        }],
+                      "w2PrintIndicator" : "Y",
+                      "msg" : "Copy B, to be filed with employee's FEDERAL tax return"
+                    }
+                  }, {
+                    "eeTaxData" : {
+                      "wagesTipsOtherCompensation" : "3000",
+                      "federalIncomeTaxWithheld" : "322.65",
+                      "socialSecurityWages" : "3000",
+                      "socialSecurityTaxWithheld" : "186",
+                      "medicareWagesAndTips" : "3000",
+                      "medicareTaxWithheld" : "43.5",
+                      "socialSecurityTips" : "0",
+                      "allocatedTips" : "0",
+                      "dependentCareBenefits" : "0",
+                      "nonQualifiedPlans" : "0",
+                      "statutoryIndicator" : "",
+                      "retirementIndicator" : "",
+                      "thirdPartySickIndicator" : "",
+                      "stateInformation" : [{
+                          "stateAbbreviation" : "ME",
+                          "stateIdNumber" : "36-708425001",
+                          "stateWagesTips" : "3000",
+                          "stateIncomeTax" : "147"
+                        }],
+                      "w2PrintIndicator" : "Y",
+                      "msg" : "Copy 2, to be filed with employee's tax return for ME"
+                    }
+                  }, {
+                    "eeTaxData" : {
+                      "voidInd" : "X"
+                    }
+                  }]
+              }]
+          }
+        }
+      }
+    },
+    "_class" : "com.paychex.tng.print.w2.data.form.ReportDefinition"
+  }
+}

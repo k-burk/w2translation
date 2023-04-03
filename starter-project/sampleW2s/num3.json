@@ -1,0 +1,197 @@
+{
+  "reportDefinition" : {
+    "header" : {
+      "reportInfo" : {
+        "_id" : "w2",
+        "fileId" : "w2"
+      },
+      "reportRunInfo" : {
+        "runDate" : "2023-02-07",
+        "runTime" : "08:49:20"
+      },
+      "isTestSystem" : "false",
+      "isLocalSystem" : "false"
+    },
+    "reportOptions" : {
+      "fieldMaskingOptions" : {
+        "maskSocialSecurityNumbers" : "true"
+      }
+    },
+    "report" : {
+      "companies" : {
+        "company" : {
+          "clientInformation" : {
+            "preparerInformation" : {
+              "phoneNumber" : {
+                "number" : "3219814",
+                "areaCode" : "585"
+              }
+            },
+            "taxIdInfo" : {
+              "einNumber" : "437092213"
+            },
+            "clientNumber" : "09470509",
+            "branchNumber" : "0052",
+            "companyName" : "NV SUI REIMBURSABLE",
+            "addressInformation" : {
+              "street" : "84 MAPLE DRIVE",
+              "extended" : "",
+              "locality" : "CARSON CITY",
+              "region" : "NV",
+              "postalCode" : "89713",
+              "country" : "",
+              "countryCode" : "",
+              "foreignAddressIndicator" : "N"
+            },
+            "consolidatedClientInd" : "",
+            "w2DeliveryCode" : "",
+            "contactEmail" : "CONTACT@HOTMAIL.COM",
+            "w2MailingAddress" : {
+              "street" : "84 MAPLE DRIVE",
+              "extended" : "",
+              "locality" : "CARSON CITY",
+              "region" : "NV",
+              "postalCode" : "89713",
+              "country" : "",
+              "countryCode" : "",
+              "foreignAddressIndicator" : "N",
+              "mailingName" : "NV SUI REIMBURSABLE"
+            }
+          },
+          "printFlags" : {
+            "printAgency" : "N",
+            "printClient" : "Y",
+            "printORS" : "Y",
+            "printAtVendor" : "Y",
+            "suppressCoverTrailerPages" : "N"
+          },
+          "dates" : {
+            "quarter" : "4",
+            "futaYear" : "2023",
+            "lastDayOfQuarter" : "20231231"
+          },
+          "indicators" : {
+            "formDataSortInfo" : "00000000019",
+            "employeeW2" : "X",
+            "employerW2" : "X"
+          },
+          "employees" : {
+            "employee" : [{
+                "basicEmployeeInfo" : {
+                  "employeeName" : {
+                    "fullName" : "HOWARD THOMSON",
+                    "firstName" : "HOWARD",
+                    "lastName" : "THOMSON",
+                    "middleInitial" : ""
+                  },
+                  "employeeId" : "0000000026",
+                  "internalEmployeeNumber" : "0000000026",
+                  "workerPk" : "1030012273357007",
+                  "deptNbr" : "",
+                  "employeeAddressInformation" : {
+                    "address1" : "80 ROUTE 22",
+                    "address2" : "MARSHFIELD MA 02050"
+                  },
+                  "taxIdInfo" : {
+                    "socialSecurityNumber" : "726340105"
+                  }
+                },
+                "eeFormData" : [{
+                    "eeTaxData" : {
+                      "wagesTipsOtherCompensation" : "3600",
+                      "federalIncomeTaxWithheld" : "454.65",
+                      "socialSecurityWages" : "3600",
+                      "socialSecurityTaxWithheld" : "223.2",
+                      "medicareWagesAndTips" : "3600",
+                      "medicareTaxWithheld" : "52.2",
+                      "socialSecurityTips" : "0",
+                      "allocatedTips" : "0",
+                      "dependentCareBenefits" : "0",
+                      "nonQualifiedPlans" : "0",
+                      "statutoryIndicator" : "",
+                      "retirementIndicator" : "",
+                      "thirdPartySickIndicator" : "",
+                      "box14" : [{
+                          "boxText" : "MAPFL",
+                          "boxAmount" : "3.96"
+                        }, {
+                          "boxText" : "MAPML",
+                          "boxAmount" : "7.47"
+                        }],
+                      "stateInformation" : [{
+                          "stateAbbreviation" : "NJ",
+                          "stateIdNumber" : "367-084-250/000",
+                          "stateWagesTips" : "3600",
+                          "stateIncomeTax" : "124.71"
+                        }],
+                      "w2PrintIndicator" : "Y",
+                      "msg" : "Copy C, for employee's records"
+                    }
+                  }, {
+                    "eeTaxData" : {
+                      "wagesTipsOtherCompensation" : "3600",
+                      "federalIncomeTaxWithheld" : "454.65",
+                      "socialSecurityWages" : "3600",
+                      "socialSecurityTaxWithheld" : "223.2",
+                      "medicareWagesAndTips" : "3600",
+                      "medicareTaxWithheld" : "52.2",
+                      "socialSecurityTips" : "0",
+                      "allocatedTips" : "0",
+                      "dependentCareBenefits" : "0",
+                      "nonQualifiedPlans" : "0",
+                      "statutoryIndicator" : "",
+                      "retirementIndicator" : "",
+                      "thirdPartySickIndicator" : "",
+                      "box14" : [{
+                          "boxText" : "MAPFL",
+                          "boxAmount" : "3.96"
+                        }, {
+                          "boxText" : "MAPML",
+                          "boxAmount" : "7.47"
+                        }],
+                      "stateInformation" : [{
+                          "stateAbbreviation" : "NJ",
+                          "stateIdNumber" : "367-084-250/000",
+                          "stateWagesTips" : "3600",
+                          "stateIncomeTax" : "124.71"
+                        }],
+                      "w2PrintIndicator" : "Y",
+                      "msg" : "Copy B, to be filed with employee's FEDERAL tax return"
+                    }
+                  }, {
+                    "eeTaxData" : {
+                      "wagesTipsOtherCompensation" : "3600",
+                      "federalIncomeTaxWithheld" : "454.65",
+                      "socialSecurityWages" : "3600",
+                      "socialSecurityTaxWithheld" : "223.2",
+                      "medicareWagesAndTips" : "3600",
+                      "medicareTaxWithheld" : "52.2",
+                      "socialSecurityTips" : "0",
+                      "allocatedTips" : "0",
+                      "dependentCareBenefits" : "0",
+                      "nonQualifiedPlans" : "0",
+                      "statutoryIndicator" : "",
+                      "retirementIndicator" : "",
+                      "thirdPartySickIndicator" : "",
+                      "stateInformation" : [{
+                          "stateAbbreviation" : "NJ",
+                          "stateIdNumber" : "367-084-250/000",
+                          "stateWagesTips" : "3600",
+                          "stateIncomeTax" : "124.71"
+                        }],
+                      "w2PrintIndicator" : "Y",
+                      "msg" : "Copy 2, to be filed with employee's tax return for NJ"
+                    }
+                  }, {
+                    "eeTaxData" : {
+                      "voidInd" : "X"
+                    }
+                  }]
+              }]
+          }
+        }
+      }
+    },
+    "_class" : "com.paychex.tng.print.w2.data.form.ReportDefinition"
+  }
+}

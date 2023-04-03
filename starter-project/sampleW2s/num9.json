@@ -1,0 +1,231 @@
+{
+  "reportDefinition": {
+    "header": {
+      "reportInfo": {
+        "_id": "w2",
+        "fileId": "w2"
+      },
+      "reportRunInfo": {
+        "runDate": "2023-02-07",
+        "runTime": "08:49:20"
+      },
+      "isTestSystem": "false",
+      "isLocalSystem": "false"
+    },
+    "reportOptions": {
+      "fieldMaskingOptions": {
+        "maskSocialSecurityNumbers": "true"
+      }
+    },
+    "report": {
+      "companies": {
+        "company": {
+          "clientInformation": {
+            "preparerInformation": {
+              "phoneNumber": {
+                "number": "3219814",
+                "areaCode": "585"
+              }
+            },
+            "taxIdInfo": {
+              "einNumber": "437092213"
+            },
+            "clientNumber": "09470509",
+            "branchNumber": "0052",
+            "companyName": "NV SUI REIMBURSABLE",
+            "addressInformation": {
+              "street": "84 MAPLE DRIVE",
+              "extended": "",
+              "locality": "CARSON CITY",
+              "region": "NV",
+              "postalCode": "89713",
+              "country": "",
+              "countryCode": "",
+              "foreignAddressIndicator": "N"
+            },
+            "consolidatedClientInd": "",
+            "w2DeliveryCode": "",
+            "contactEmail": "CONTACT@HOTMAIL.COM",
+            "w2MailingAddress": {
+              "street": "84 MAPLE DRIVE",
+              "extended": "",
+              "locality": "CARSON CITY",
+              "region": "NV",
+              "postalCode": "89713",
+              "country": "",
+              "countryCode": "",
+              "foreignAddressIndicator": "N",
+              "mailingName": "NV SUI REIMBURSABLE"
+            }
+          },
+          "printFlags": {
+            "printAgency": "N",
+            "printClient": "Y",
+            "printORS": "Y",
+            "printAtVendor": "Y",
+            "suppressCoverTrailerPages": "N"
+          },
+          "dates": {
+            "quarter": "4",
+            "futaYear": "2023",
+            "lastDayOfQuarter": "20231231"
+          },
+          "indicators": {
+            "formDataSortInfo": "00000000013",
+            "employeeW2": "X",
+            "employerW2": "X"
+          },
+          "employees": {
+            "employee": [
+              {
+                "basicEmployeeInfo": {
+                  "employeeName": {
+                    "fullName": "NICK CRASS",
+                    "firstName": "NICK",
+                    "lastName": "CRASS",
+                    "middleInitial": ""
+                  },
+                  "employeeId": "0000000010",
+                  "internalEmployeeNumber": "0000000010",
+                  "workerPk": "1030009558438504",
+                  "deptNbr": "",
+                  "employeeAddressInformation": {
+                    "address1": "EE ADDRESS 1",
+                    "address2": "EE ADDRESS 2",
+                    "address3": "LINCOLN NE 68509"
+                  },
+                  "taxIdInfo": {
+                    "socialSecurityNumber": "651504959"
+                  }
+                },
+                "eeFormData": [
+                  {
+                    "eeTaxData": {
+                      "wagesTipsOtherCompensation": "6000",
+                      "federalIncomeTaxWithheld": "986.55",
+                      "socialSecurityWages": "6000",
+                      "socialSecurityTaxWithheld": "372",
+                      "medicareWagesAndTips": "6000",
+                      "medicareTaxWithheld": "87",
+                      "socialSecurityTips": "0",
+                      "allocatedTips": "0",
+                      "dependentCareBenefits": "0",
+                      "nonQualifiedPlans": "0",
+                      "statutoryIndicator": "",
+                      "retirementIndicator": "X",
+                      "thirdPartySickIndicator": "",
+                      "stateInformation": [
+                        {
+                          "stateAbbreviation": "NE",
+                          "stateIdNumber": "3670842",
+                          "stateWagesTips": "900",
+                          "stateIncomeTax": "21.66"
+                        },
+                        {
+                          "stateAbbreviation": "NM",
+                          "stateIdNumber": "36-708425-91 2",
+                          "stateWagesTips": "6000",
+                          "stateIncomeTax": "258.3"
+                        }
+                      ],
+                      "w2PrintIndicator": "Y",
+                      "msg": "Copy C, for employee's records"
+                    }
+                  },
+                  {
+                    "eeTaxData": {
+                      "wagesTipsOtherCompensation": "6000",
+                      "federalIncomeTaxWithheld": "986.55",
+                      "socialSecurityWages": "6000",
+                      "socialSecurityTaxWithheld": "372",
+                      "medicareWagesAndTips": "6000",
+                      "medicareTaxWithheld": "87",
+                      "socialSecurityTips": "0",
+                      "allocatedTips": "0",
+                      "dependentCareBenefits": "0",
+                      "nonQualifiedPlans": "0",
+                      "statutoryIndicator": "",
+                      "retirementIndicator": "X",
+                      "thirdPartySickIndicator": "",
+                      "stateInformation": [
+                        {
+                          "stateAbbreviation": "NE",
+                          "stateIdNumber": "3670842",
+                          "stateWagesTips": "900",
+                          "stateIncomeTax": "21.66"
+                        },
+                        {
+                          "stateAbbreviation": "NM",
+                          "stateIdNumber": "36-708425-91 2",
+                          "stateWagesTips": "6000",
+                          "stateIncomeTax": "258.3"
+                        }
+                      ],
+                      "w2PrintIndicator": "Y",
+                      "msg": "Copy B, to be filed with employee's FEDERAL tax return"
+                    }
+                  },
+                  {
+                    "eeTaxData": {
+                      "wagesTipsOtherCompensation": "6000",
+                      "federalIncomeTaxWithheld": "986.55",
+                      "socialSecurityWages": "6000",
+                      "socialSecurityTaxWithheld": "372",
+                      "medicareWagesAndTips": "6000",
+                      "medicareTaxWithheld": "87",
+                      "socialSecurityTips": "0",
+                      "allocatedTips": "0",
+                      "dependentCareBenefits": "0",
+                      "nonQualifiedPlans": "0",
+                      "statutoryIndicator": "",
+                      "retirementIndicator": "X",
+                      "thirdPartySickIndicator": "",
+                      "stateInformation": [
+                        {
+                          "stateAbbreviation": "NE",
+                          "stateIdNumber": "3670842",
+                          "stateWagesTips": "900",
+                          "stateIncomeTax": "21.66"
+                        }
+                      ],
+                      "w2PrintIndicator": "Y",
+                      "msg": "Copy 2, to be filed with employee's tax return for NE"
+                    }
+                  },
+                  {
+                    "eeTaxData": {
+                      "wagesTipsOtherCompensation": "6000",
+                      "federalIncomeTaxWithheld": "986.55",
+                      "socialSecurityWages": "6000",
+                      "socialSecurityTaxWithheld": "372",
+                      "medicareWagesAndTips": "6000",
+                      "medicareTaxWithheld": "87",
+                      "socialSecurityTips": "0",
+                      "allocatedTips": "0",
+                      "dependentCareBenefits": "0",
+                      "nonQualifiedPlans": "0",
+                      "statutoryIndicator": "",
+                      "retirementIndicator": "X",
+                      "thirdPartySickIndicator": "",
+                      "stateInformation": [
+                        {
+                          "stateAbbreviation": "NM",
+                          "stateIdNumber": "36-708425-91 2",
+                          "stateWagesTips": "6000",
+                          "stateIncomeTax": "258.3"
+                        }
+                      ],
+                      "w2PrintIndicator": "Y",
+                      "msg": "Copy 2, to be filed with employee's tax return for NM"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "_class": "com.paychex.tng.print.w2.data.form.ReportDefinition"
+  }
+}

@@ -1,0 +1,345 @@
+{
+  "_class": "com.paychex.tng.print.w2.data.form.ReportDefinition",
+  "header":
+  {
+    "isLocalSystem": "false",
+    "isTestSystem": "false",
+    "reportInfo":
+    {
+      "_id": "w2",
+      "fileId": "w2"
+    },
+    "reportRunInfo":
+    {
+      "runDate": "2022-10-06",
+      "runTime": "20:06:21"
+    }
+  },
+  "report":
+  {
+    "companies":
+    {
+      "company":
+      {
+        "clientInformation":
+        {
+          "addressInformation":
+          {
+            "country": "",
+            "countryCode": "",
+            "extended": "NY ADDRESS 2",
+            "foreignAddressIndicator": "N",
+            "locality": "IRONDEQUOIT",
+            "postalCode": "14617",
+            "region": "NY",
+            "street": "NY ADDRESS 1"
+          },
+          "branchNumber": "0047",
+          "clientNumber": "03121479",
+          "companyName": "FIELD TESTING FOR OHIO",
+          "consolidatedClientInd": "",
+          "contactEmail": "",
+          "preparerInformation":
+          {
+            "officerName": "THEODORE J JORDAN JR",
+            "officerTitle": "ATTY-IN-FACT",
+            "phoneNumber":
+            {
+              "areaCode": "585",
+              "number": "3118900"
+            },
+            "preparerEin": "161124166",
+            "preparerName": "PAYCHEX, INC.",
+            "preparerProduct": "TAXPAY\u00ae",
+            "referenceCopyText":
+            {
+              "val":
+              [
+                "REFERENCE COPY PREPARED BY PAYCHEX  DO NOT FILE"
+              ]
+            },
+            "signaturePath": "signatures/"
+          },
+          "taxIdInfo":
+          {
+            "einNumber": "910348741"
+          },
+          "w2DeliveryCode": "",
+          "w2MailingAddress":
+          {
+            "country": "",
+            "countryCode": "",
+            "extended": "NY ADDRESS 2",
+            "foreignAddressIndicator": "N",
+            "locality": "IRONDEQUOIT",
+            "mailingName": "FIELD TESTING FOR OHIO",
+            "postalCode": "14617",
+            "region": "NY",
+            "street": "NY ADDRESS 1"
+          }
+        },
+        "dates":
+        {
+          "futaYear": "2021",
+          "lastDayOfQuarter": "20211231",
+          "quarter": "4"
+        },
+        "employees":
+        {
+          "employee":
+          [
+            {
+              "basicEmployeeInfo":
+              {
+                "deptNbr": "",
+                "employeeAddressInformation":
+                {
+                  "address1": "916 SEVENTH DRIVE",
+                  "address2": "ROCHESTER NY 14605"
+                },
+                "employeeId": "0000000013",
+                "employeeName":
+                {
+                  "firstName": "AVIS",
+                  "fullName": "AVIS L ABBOTT",
+                  "lastName": "ABBOTT",
+                  "middleInitial": "L"
+                },
+                "internalEmployeeNumber": "0000000005",
+                "taxIdInfo":
+                {
+                  "socialSecurityNumber": "130217924"
+                },
+                "workerPk": "850000410686053"
+              },
+              "eeFormData":
+              [
+                {
+                  "eeTaxData":
+                  {
+                    "allocatedTips": "0",
+                    "box14":
+                    [
+                      {
+                        "boxAmount": "1290",
+                        "boxText": "FRING"
+                      },
+                      {
+                        "boxAmount": "3930",
+                        "boxText": "MINIS"
+                      }
+                    ],
+                    "dependentCareBenefits": "0",
+                    "federalIncomeTaxWithheld": "9985.8",
+                    "medicareTaxWithheld": "862.61",
+                    "medicareWagesAndTips": "59490",
+                    "msg": "Copy C, for employee's records",
+                    "nonQualifiedPlans": "0",
+                    "retirementIndicator": "X",
+                    "socialSecurityTaxWithheld": "3688.38",
+                    "socialSecurityTips": "0",
+                    "socialSecurityWages": "59490",
+                    "stateInformation":
+                    [
+                      {
+                        "localInformation":
+                        [
+                          {
+                            "localIncomeTax": "1487.4",
+                            "localName": "OH TOLED",
+                            "localWagesTips": "59490",
+                            "pennsylvaniaLiveSchoolDistrictCode": "000000",
+                            "pennsylvaniaSchoolDistrictCode": "000000"
+                          }
+                        ],
+                        "stateAbbreviation": "OH",
+                        "stateIdNumber": "52-123456 7",
+                        "stateIncomeTax": "1921.05",
+                        "stateWagesTips": "59490"
+                      }
+                    ],
+                    "statutoryIndicator": "",
+                    "thirdPartySickIndicator": "",
+                    "w2PrintIndicator": "",
+                    "wagesTipsOtherCompensation": "59490"
+                  }
+                },
+                {
+                  "eeTaxData":
+                  {
+                    "allocatedTips": "0",
+                    "box14":
+                    [
+                      {
+                        "boxAmount": "1290",
+                        "boxText": "FRING"
+                      },
+                      {
+                        "boxAmount": "3930",
+                        "boxText": "MINIS"
+                      }
+                    ],
+                    "dependentCareBenefits": "0",
+                    "federalIncomeTaxWithheld": "9985.8",
+                    "medicareTaxWithheld": "862.61",
+                    "medicareWagesAndTips": "59490",
+                    "msg": "Copy B, to be filed with employee's FEDERAL tax return",
+                    "nonQualifiedPlans": "0",
+                    "retirementIndicator": "X",
+                    "socialSecurityTaxWithheld": "3688.38",
+                    "socialSecurityTips": "0",
+                    "socialSecurityWages": "59490",
+                    "stateInformation":
+                    [
+                      {
+                        "localInformation":
+                        [
+                          {
+                            "localIncomeTax": "1487.4",
+                            "localName": "OH TOLED",
+                            "localWagesTips": "59490",
+                            "pennsylvaniaLiveSchoolDistrictCode": "000000",
+                            "pennsylvaniaSchoolDistrictCode": "000000"
+                          }
+                        ],
+                        "stateAbbreviation": "OH",
+                        "stateIdNumber": "52-123456 7",
+                        "stateIncomeTax": "1921.05",
+                        "stateWagesTips": "59490"
+                      }
+                    ],
+                    "statutoryIndicator": "",
+                    "thirdPartySickIndicator": "",
+                    "w2PrintIndicator": "",
+                    "wagesTipsOtherCompensation": "59490"
+                  }
+                },
+                {
+                  "eeTaxData":
+                  {
+                    "allocatedTips": "0",
+                    "box14":
+                    [
+                      {
+                        "boxAmount": "1290",
+                        "boxText": "FRING"
+                      },
+                      {
+                        "boxAmount": "3930",
+                        "boxText": "MINIS"
+                      }
+                    ],
+                    "dependentCareBenefits": "0",
+                    "federalIncomeTaxWithheld": "9985.8",
+                    "medicareTaxWithheld": "862.61",
+                    "medicareWagesAndTips": "59490",
+                    "msg": "Copy 2, to be filed with employee's tax return for OH",
+                    "nonQualifiedPlans": "0",
+                    "retirementIndicator": "X",
+                    "socialSecurityTaxWithheld": "3688.38",
+                    "socialSecurityTips": "0",
+                    "socialSecurityWages": "59490",
+                    "stateInformation":
+                    [
+                      {
+                        "localInformation":
+                        [
+                          {
+                            "localIncomeTax": "1487.4",
+                            "localName": "OH TOLED",
+                            "localWagesTips": "59490",
+                            "pennsylvaniaLiveSchoolDistrictCode": "000000",
+                            "pennsylvaniaSchoolDistrictCode": "000000"
+                          }
+                        ],
+                        "stateAbbreviation": "OH",
+                        "stateIdNumber": "52-123456 7",
+                        "stateIncomeTax": "1921.05",
+                        "stateWagesTips": "59490"
+                      }
+                    ],
+                    "statutoryIndicator": "",
+                    "thirdPartySickIndicator": "",
+                    "w2PrintIndicator": "",
+                    "wagesTipsOtherCompensation": "59490"
+                  }
+                },
+                {
+                  "eeTaxData":
+                  {
+                    "allocatedTips": "0",
+                    "box14":
+                    [
+                      {
+                        "boxAmount": "1290",
+                        "boxText": "FRING"
+                      },
+                      {
+                        "boxAmount": "3930",
+                        "boxText": "MINIS"
+                      }
+                    ],
+                    "dependentCareBenefits": "0",
+                    "federalIncomeTaxWithheld": "9985.8",
+                    "medicareTaxWithheld": "862.61",
+                    "medicareWagesAndTips": "59490",
+                    "msg": "Copy 2, to be filed with employee's tax return for TOLED",
+                    "nonQualifiedPlans": "0",
+                    "retirementIndicator": "X",
+                    "socialSecurityTaxWithheld": "3688.38",
+                    "socialSecurityTips": "0",
+                    "socialSecurityWages": "59490",
+                    "stateInformation":
+                    [
+                      {
+                        "localInformation":
+                        [
+                          {
+                            "localIncomeTax": "1487.4",
+                            "localName": "OH TOLED",
+                            "localWagesTips": "59490",
+                            "pennsylvaniaLiveSchoolDistrictCode": "000000",
+                            "pennsylvaniaSchoolDistrictCode": "000000"
+                          }
+                        ],
+                        "stateAbbreviation": "OH",
+                        "stateIdNumber": "52-123456 7",
+                        "stateIncomeTax": "1921.05",
+                        "stateWagesTips": "59490"
+                      }
+                    ],
+                    "statutoryIndicator": "",
+                    "thirdPartySickIndicator": "",
+                    "w2PrintIndicator": "",
+                    "wagesTipsOtherCompensation": "59490"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "indicators":
+        {
+          "employeeW2": "X",
+          "employerW2": "X",
+          "formDataSortInfo": "00000000000"
+        },
+        "printFlags":
+        {
+          "printAgency": "N",
+          "printAtVendor": "Y",
+          "printClient": "Y",
+          "printORS": "Y",
+          "suppressCoverTrailerPages": "N"
+        }
+      }
+    }
+  },
+  "reportOptions":
+  {
+    "fieldMaskingOptions":
+    {
+      "maskSocialSecurityNumbers": "true"
+    }
+  }
+}
